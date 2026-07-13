@@ -5,3 +5,4 @@ https://github.com/callumpatterson-oss/Data_Project/blob/main/suppliers.csv
 https://github.com/callumpatterson-oss/Data_Project/blob/main/products.csv
 https://github.com/callumpatterson-oss/Data_Project/blob/main/orders.csv
 https://github.com/callumpatterson-oss/Data_Project/blob/main/customers.csv
+https://github.com/callumpatterson-oss/Data_Project/blob/main/categories.csv
