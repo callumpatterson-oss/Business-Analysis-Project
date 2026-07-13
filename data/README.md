@@ -1,4 +1,4 @@
 # Data
 
 This folder contains the original datasets used for the project.
-suppliers.csv
+https://github.com/callumpatterson-oss/Data_Project/blob/main/suppliers.csv
