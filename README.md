@@ -74,6 +74,8 @@ Identified the highest-selling products based on total revenue.
 
 #### Supplier Performance
 Calculated supplier revenue contributions to determine which suppliers generated the highest sales.
+
+All SQL Queries can be found in SQL/business_analysis.sql.
 <!--
  ```diff
 - text in red
