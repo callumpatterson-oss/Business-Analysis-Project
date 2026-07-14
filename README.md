@@ -13,7 +13,9 @@ Developed an end-to-end e-commerce sales analysis project using PostgreSQL, Exce
 
 ## Database
 
-The project uses a relational PostgreSQL database consisting of six tables that model an e-commerce business.
+The project uses a relational PostgreSQL database built from six realistic CSV datasets created by AI that model and e-commerce bussiness .
+
+The original datasets are located in the `/data` folder of this repository.
 
 | Table | Description |
 |-------|-------------|
@@ -24,6 +26,54 @@ The project uses a relational PostgreSQL database consisting of six tables that 
 | Categories | Product category lookup table |
 | Suppliers | Supplier information |
 
+The tables are linked using primary and foreign keys to support relational analysis through SQL JOINs.
+
+## SQL Analysis
+
+The analysis was performed in PostgreSQL to transform raw transactional data into business-ready datasets. Multiple SQL techniques were used to answer key business questions and generate analytical outputs for Excel and Power BI dashboards.
+
+### SQL Techniques Demonstrated
+
+- INNER JOINs across multiple relational tables
+- Common Table Expressions (CTEs)
+- Subqueries
+- Window Functions (`LAG()`, `RANK()`)
+- Aggregate Functions (`SUM()`, `COUNT()`, `AVG()`)
+- Date Functions (`DATE_TRUNC()`)
+- GROUP BY and ORDER BY
+- Revenue calculations and percentage growth analysis
+
+### Business Questions Answered
+
+#### Total Revenue
+Calculated total sales revenue after applying product discounts.
+
+#### Monthly Revenue Trend
+Analysed revenue over time to identify long-term sales trends.
+
+#### Monthly Revenue Growth
+Used the `LAG()` window function to calculate month-over-month revenue growth percentages.
+
+<img width="750" height="636" alt="Screenshot 2026-07-14 at 13 26 36" src="https://github.com/user-attachments/assets/3724d52f-89fe-4398-90d7-5cc0c7b16313" />
+
+
+#### Revenue by Product Category
+Identified the highest-performing product categories by total revenue.
+
+#### Revenue by Country
+Compared sales performance across different countries to identify key markets.
+
+#### Top Customers
+
+<img width="798" height="321" alt="Screenshot 2026-07-14 at 13 45 55" src="https://github.com/user-attachments/assets/18262a85-be7a-4474-94b6-dd4a6b1de321" />
+
+Ranks customers by total revenue using joins, aggregation and the `RANK()` window function.
+
+#### Top Products
+Identified the highest-selling products based on total revenue.
+
+#### Supplier Performance
+Calculated supplier revenue contributions to determine which suppliers generated the highest sales.
 <!--
  ```diff
 - text in red
