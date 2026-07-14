@@ -107,6 +107,63 @@ The Excel analysis provided a clear summary of business performance and acted as
 <img width="423" height="487" alt="Screenshot 2026-07-14 at 14 32 47" src="https://github.com/user-attachments/assets/c0b0638f-3e4c-424d-81ca-37adf1f0341a" />
 
 The dashboard combines Pivot Tables, Pivot Charts and KPI summaries to provide a high-level overview of sales performance across time, products and geographic regions.
+
+## Business Inteligence Dashboard
+
+The analytical datasets created in PostgreSQL were imported into Power BI to develop an interactive business intelligence dashboard. The dashboard uses KPI cards, charts and filters to provide insights into sales performance, customer behaviour and product performance, allowing users to explore trends and compare results across different dimensions.
+
+### Power BI Features
+
+- KPI Cards
+- Interactive Filters and Slicers
+- Line Charts
+- Bar Charts
+- Donut Charts
+- Data Modelling
+- DAX Measures
+- Drill-through Analysis
+
+### Dashboard Insights
+
+- Total Revenue
+- Monthly Revenue Growth
+- Revenue Trend Over Time
+- Revenue by Product Category
+- Revenue by Country
+- Top Customers
+- Top Products
+- Supplier Performance
+
+The dashboard was designed to provide stakeholders with an interactive overview of business performance, enabling data-driven decision-making through clear and dynamic visualisations.
+
+## Business Intelligence Dashboard
+
+The dashboard was built in Power BI using the analytical datasets created in PostgreSQL. It provides an interactive overview of revenue, customer and product performance through KPI cards, trend analysis and dynamic filtering.
+
+---
+
+### Dashboard 1 – Executive Overview
+
+The Executive Dashboard provides a high-level summary of business performance, including total revenue, monthly revenue growth, top-performing category and country, alongside key revenue trends and product performance.
+
+<img width="1313" height="739" alt="image" src="https://github.com/user-attachments/assets/ca7c875d-f1f4-46ee-85e5-5bea7da7918e" />
+
+---
+
+### Dashboard 2 – Customer Analysis
+
+The Customer Dashboard focuses on customer behaviour and purchasing patterns. It highlights the highest-value customers, customer segmentation and revenue contribution by customer group.
+
+<img width="1304" height="744" alt="image" src="https://github.com/user-attachments/assets/e97c5258-2f36-41bd-9590-573bf9ecfda7" />
+
+---
+
+### Dashboard 3 – Product Analysis
+
+The Product Dashboard analyses product and supplier performance, identifying the highest-performing products, categories and suppliers to support inventory and sales decisions.
+
+<img width="1307" height="739" alt="image" src="https://github.com/user-attachments/assets/05d3e1d0-3932-48f7-94b5-d56cd691ee14" />
+
 <!--
  ```diff
 - text in red
