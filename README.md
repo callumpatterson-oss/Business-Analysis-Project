@@ -75,6 +75,38 @@ Identified the highest-selling products based on total revenue.
 Calculated supplier revenue contributions to determine which suppliers generated the highest sales.
 
 All SQL Queries can be found in SQL/business_analysis.sql.
+
+## Excel Analysis
+
+The analytical datasets generated in PostgreSQL were exported to Microsoft Excel for further analysis and reporting. Pivot Tables were used to summarise large volumes of sales data, while Pivot Charts were created to highlight key business trends and validate the SQL analysis before developing the final Power BI dashboard.
+
+### Excel Techniques Demonstrated
+
+- Pivot Tables
+
+<img width="1439" height="241" alt="Screenshot 2026-07-14 at 14 30 40" src="https://github.com/user-attachments/assets/116b9592-10cd-4af0-be33-1d417043d5fb" />
+
+- Pivot Charts
+- Data Sorting and Filtering
+- Revenue Summarisation
+- Trend Analysis
+- KPI Reporting
+
+### Reports Created
+
+- Monthly Revenue Trend
+- Revenue by Country
+- Revenue by Product Category
+- Top 10 Customers by Revenue
+- Top 10 Products by Revenue
+
+The Excel analysis provided a clear summary of business performance and acted as an intermediate reporting stage before building the interactive Power BI dashboard.
+
+### Excel Dashboard
+
+<img width="423" height="487" alt="Screenshot 2026-07-14 at 14 32 47" src="https://github.com/user-attachments/assets/c0b0638f-3e4c-424d-81ca-37adf1f0341a" />
+
+The dashboard combines Pivot Tables, Pivot Charts and KPI summaries to provide a high-level overview of sales performance across time, products and geographic regions.
 <!--
  ```diff
 - text in red
