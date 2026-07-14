@@ -54,8 +54,7 @@ Analysed revenue over time to identify long-term sales trends.
 #### Monthly Revenue Growth
 Used the `LAG()` window function to calculate month-over-month revenue growth percentages.
 
-<img width="750" height="636" alt="Screenshot 2026-07-14 at 13 26 36" src="https://github.com/user-attachments/assets/3724d52f-89fe-4398-90d7-5cc0c7b16313" />
-
+<img width="784" height="420" alt="Screenshot 2026-07-14 at 14 26 29" src="https://github.com/user-attachments/assets/e2183b35-b277-44b2-ad60-31acff173d2e" />
 
 #### Revenue by Product Category
 Identified the highest-performing product categories by total revenue.
