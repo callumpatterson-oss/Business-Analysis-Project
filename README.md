@@ -162,6 +162,27 @@ The Customer Dashboard focuses on customer behaviour and purchasing patterns. It
 
 The Product Dashboard analyses product and supplier performance, identifying the highest-performing products, categories and suppliers to support inventory and sales decisions.
 
+## Key Business Insights
+
+### Revenue Performance
+- The company generated £810.5 million in total revenue between 2022 and 2025, demonstrating a strong sales performance across the reporting period.
+- Monthly revenue remained relatively stable, generally ranging between £15M and £18M, indicating consistent customer demand.
+### Revenue Growth
+- The latest month recorded a -0.28% change in revenue compared with the previous month.
+- Although growth has slowed slightly, the overall revenue trend remained stable with no prolonged periods of decline.
+### Product Categories
+- Category_16 generated the highest revenue at approximately £50M, making it the company's best-performing product category.
+- The top five categories contributed a significant proportion of total sales, suggesting these categories should remain a strategic business focus.
+### Geographic Performance
+- Canada was the highest revenue-generating country with approximately £138M in sales.
+- Revenue across Canada, the USA, the UK, Germany and Australia was relatively balanced, indicating the business has a well-diversified international customer base.
+### Product Performance
+- Product_340 was the highest-performing individual product, generating approximately £570K in revenue.
+- The difference in revenue between the top ten products was relatively small, suggesting product demand is well distributed rather than relying on a single flagship product.
+### Sales Trend
+- Revenue remained consistently strong throughout the four-year period, with only minor month-to-month fluctuations.
+No obvious long-term decline was observed, indicating a stable business model.
+No obvious long-term decline was observed, indicating a stable business model.
 <img width="1307" height="739" alt="image" src="https://github.com/user-attachments/assets/05d3e1d0-3932-48f7-94b5-d56cd691ee14" />
 
 <!--
