@@ -162,6 +162,8 @@ The Customer Dashboard focuses on customer behaviour and purchasing patterns. It
 
 The Product Dashboard analyses product and supplier performance, identifying the highest-performing products, categories and suppliers to support inventory and sales decisions.
 
+<img width="1307" height="739" alt="image" src="https://github.com/user-attachments/assets/05d3e1d0-3932-48f7-94b5-d56cd691ee14" />
+
 ## Key Business Insights
 
 ### Revenue Performance
@@ -181,9 +183,7 @@ The Product Dashboard analyses product and supplier performance, identifying the
 - The difference in revenue between the top ten products was relatively small, suggesting product demand is well distributed rather than relying on a single flagship product.
 ### Sales Trend
 - Revenue remained consistently strong throughout the four-year period, with only minor month-to-month fluctuations.
-No obvious long-term decline was observed, indicating a stable business model.
-No obvious long-term decline was observed, indicating a stable business model.
-<img width="1307" height="739" alt="image" src="https://github.com/user-attachments/assets/05d3e1d0-3932-48f7-94b5-d56cd691ee14" />
+- No obvious long-term decline was observed, indicating a stable business model.
 
 <!--
  ```diff
